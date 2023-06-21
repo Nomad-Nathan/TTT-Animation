@@ -48,7 +48,7 @@ function App() {
         <primitive object={scene} ref={gltfRef} />
       </group> */}
 
-      <primitive object={scene} position={[0,0,-5]} ref={gltfRef} />
+      <primitive object={scene} position={[0,0,-6]} ref={gltfRef} />
     </>
   );
 }
